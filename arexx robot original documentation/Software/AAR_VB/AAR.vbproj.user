@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>Installatie\|publish1\|O:\ARDUINO\Hein\VBexe\|publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory>O:\ARDUINO\Hein\VBexe</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>O:\ARDUINO\Hein\Visual Basic\RP6Arduino\RP6Arduino\bin\Release\;O:\ARDUINO\Hein\Visual Basic\RP6Arduino\RP6Arduino\bin\Release\WindowsInstaller3_1\;O:\ARDUINO\Hein\Visual Basic\RP6Arduino\RP6Arduino\My Project\;O:\ARDUINO\Hein\Visual Basic\RP6Arduino\RP6Arduino\My Project\DotNetFX40Client\;O:\ARDUINO\Hein\Visual Basic\RP6Arduino\RP6Arduino\My Project\WindowsInstaller3_1\</ReferencePath>
+  </PropertyGroup>
+</Project>
