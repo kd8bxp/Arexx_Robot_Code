@@ -5,6 +5,10 @@ Some of this maybe from Arexx, a lot of this is stuff I've created, some of it m
 
 Some of it works, some of it doesn't work, some of it is test code, some of isn't - it is really pretty much a mess of different things.  
 
+## Libraries
+
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+
 ## Contributing
 
 1. Fork it!

@@ -13,7 +13,7 @@
 // Load Wi-Fi library
 #include <ESP8266WiFi.h>
 #include <Wire.h>
-#include <LOLIN_I2C_MOTOR.h>
+#include "src/LOLIN_I2C_MOTOR/LOLIN_I2C_MOTOR.h"
 
 LOLIN_I2C_MOTOR motor; //I2C address 0x30
 

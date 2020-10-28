@@ -1,4 +1,4 @@
-#include "PinChangeInterrupt.h"
+#include "src/PinChangeInterrupt/PinChangeInterrupt.h"
 
 volatile int speed_timer=0;
 byte mleft_speed=0;
@@ -66,4 +66,3 @@ void rightsens()  //external interrupt right encoder
   mright_counter++;
   attachPCINT(digitalPinToPCINT(A1),rightsens,CHANGE);  
 }
-

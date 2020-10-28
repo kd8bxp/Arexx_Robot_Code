@@ -1,9 +1,9 @@
 
-#include <SoftPWM.h>
-#include <SoftPWM_timer.h>
+#include "src/SoftPWM/SoftPWM.h"
+#include "src/SoftPWM/SoftPWM_timer.h"
 #include <avr/interrupt.h>
 #include <avr/io.h>
-#include <TimerOne.h>
+#include "src/TimerOne/TimerOne.h"
 #include "pins_arduino.h"
 
 //encoder variables
