@@ -1,0 +1,20 @@
+
+5 CLS
+10 OPEN "com:38n1d" FOR OUTPUT AS 1
+20 PRINT#1,"atssid=ESPRobotAP"
+25 GOSUB 700
+30 PRINT#1,"atpass="
+35 GOSUB 700
+40 PRINT#1,"at$c1"
+50 GOSUB 700
+60 PRINT "Control Robot over web."
+70 PRINT "Forward." :GOSUB 500
+80 GOSUB 700
+90 GOSUB 520
+100 CLOSE 1:END
+500 PRINT#1,"atget=http://ESPRobotAP.local/5/on" : REM start forward
+510 RETURN
+520 PRINT#1,"atget=http://ESPRobotAP.local/5/off": REM stop forward
+530 RETURN
+700 FOR I=1 TO 1000:NEXT I
+710 RETURN
