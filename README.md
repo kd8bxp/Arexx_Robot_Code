@@ -1,3 +1,7 @@
+# Archived Aug 20, 2024 
+
+I no longer own these robots.  The code should be able to be adapted for other two wheel robots. But I will not be updating here. The code is being left for history. And I have already added other code for these robots a few days ago (That code some how never got into the repository in the first place). This repository is 4 years old and really hasn't been updated since then. There for it is time to archive and move to other/new projects. 
+
 # Arexx Robot Code
 
 A repository for information, code, pdfs, and more for the Arexx Robots I own.  
